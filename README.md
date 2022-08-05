@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 <p class="center">
   <a href="https://www.youtube.com/c/DarkZeroOne"> <img src="https://img.shields.io/badge/Youtube-DarkZeroOne-red"/> </a>
+  <br>
 </p>
-
-<img src="https://avatars.githubusercontent.com/u/73608287?v=4" />
