@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 <p class="center">
   <a href="https://www.youtube.com/c/DarkZeroOne"> <img src="https://img.shields.io/badge/Youtube-DarkZeroOne-red"/> </a>
+  <a href="https://www.ahmedriad.com/"> <img src="https://img.shields.io/badge/%20-Website%20-lightgrey"/> </a>
   <br>
 </p>
