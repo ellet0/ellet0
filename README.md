@@ -21,5 +21,7 @@ Here are some ideas to get you started:
   <br>
 </p>
 
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=ahmedhnewa" align="left" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhnewa&layout=compact" align="right" />
+</div>
