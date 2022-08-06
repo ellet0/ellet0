@@ -20,3 +20,6 @@ Here are some ideas to get you started:
   <a href="https://www.ahmedriad.com/"> <img src="https://img.shields.io/badge/%20-Website%20-lightgrey"/> </a>
   <br>
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedhnewa" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhnewa&layout=compact" align="right" />
