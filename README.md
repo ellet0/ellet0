@@ -21,5 +21,8 @@ Here are some ideas to get you started:
   <br>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhnewa&layout=compact" align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhnewa&layout=compact&langs_count=50" align="right" />
 <img src="https://github-readme-stats.vercel.app/api?username=ahmedhnewa" height="165" />
+
+<br><br>
+<p>Some languages I don't use them, for example I don't use Ruby, it is included in my flutter projects by default and I have't even see it</p>
