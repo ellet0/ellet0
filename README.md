@@ -4,9 +4,9 @@
 
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on a Mobile App and website with Kotlin, ktor, flutter, and even swift
 - 🌱 I’m currently learning Next Js
-- 👯 I’m looking to collaborate on Open source projects and non-commercial projects
+- 👯 I’m looking to collaborate on Open-source projects and non-commercial projects
 - 🤔 I’m looking for help with Wallpaper Engine Linux Port
 - 💬 Ask me about Flutter, Kotlin, Native Android, Ktor
 - 📫 How to reach me: @ahmedhnewa on telegram
