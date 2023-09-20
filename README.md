@@ -13,7 +13,7 @@
 - ⚡ You're more than welcome to get in touch, just remember to stay connected when you do.
 
 <p class="center">
-  <a href="https://www.youtube.com/@ahmedhnewa"> <img src="https://img.shields.io/badge/Youtube-DarkZeroOne-red"/> </a>
+  <a href="https://www.youtube.com/@ahmedhnewa"> <img src="https://img.shields.io/badge/Youtube-AhmedHnewa-red"/> </a>
   <a href="https://www.ahmedriad.com/"> <img src="https://img.shields.io/badge/%20-Website%20-lightgrey"/> </a>
   <br>
 </p>
