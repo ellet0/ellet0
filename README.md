@@ -18,8 +18,8 @@
   <br>
 </p>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=freshtechtips&layout=compact&langs_count=50" align="right" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=freshtechtips" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ellet0&layout=compact&langs_count=50" align="right" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ellet0" height="165" />
 
 <br><br>
 
