@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Open-source projects
 - 🤔 I’m looking for help with Wallpaper Engine Linux Port
 - 💬 Ask me about Flutter, Kotlin, Native Android, Ktor
-- 📫 How to reach me: hello@freshplatform.net
+- 📫 How to reach me: ellet@freshplatform.net
 - ⚡ You're more than welcome to get in touch
 
 <p class="center">
