@@ -1,4 +1,6 @@
-### Hi there
+### Hi
+
+Progress over perfection, quality over duration and quantity
 
 <!--
 
@@ -22,6 +24,12 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ellet0" height="165" />
 
 <br><br>
+
+Project ideas I might or not do:
+
+1. A simple wallpaper application that work on all desktop platforms and supports multiple providers either from other programs like wallpaper engine (I already have a demo in the past) or from apis
+
+2. A minecraft launcher that allow you join servers directly from the launcher with many features like syncing the server content (mods, resource packs, shaders etc...) always the same minecraft version and mod loader for compability and shared settings and fata without having to download or duplicate content for seamless experience, there should be the launcher, web app for server maintainers for adding content like the client mods, backend for both the desktop app, web and rest api for external applications, plugins and mods for existing platforms like fabric, forge, paper etc... on the server side so it sync the server status to the api and some other stuff so players can join with only server address/name in that client
 
 I have an organization on GitHub called **Fresh Platform** and moved some of the repos [there](https://github.com/freshplatform/)
 
